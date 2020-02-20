@@ -14,8 +14,10 @@ public class TwoSum {
 
     /**
      * 法一: 暴力破解法
+     *
      * 时间复杂度： O(n^2^)
      * 空间复杂度: O(1)
+     *
      * @param nums 数组
      * @param target 目标值
      * @return 返回值为整型数组
@@ -33,8 +35,10 @@ public class TwoSum {
 
     /**
      * 法二: 哈希法
+     *
      * 时间复杂度: O(n)
      * 空间复杂度: O(n)
+     *
      * @param nums 数组
      * @param target 目标值
      * @return 返回值为整型数组
